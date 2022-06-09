@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\bin\Debug\net5.0\002 - Media do aluno recuperacao com if.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\bin\Debug\net5.0\002 - Media do aluno recuperacao com if.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\bin\Debug\net5.0\002 - Media do aluno recuperacao com if.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\bin\Debug\net5.0\002 - Media do aluno recuperacao com if.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\bin\Debug\net5.0\002 - Media do aluno recuperacao com if.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\bin\Debug\net5.0\002 - Media do aluno recuperacao com if.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\002 - Media do aluno recuperacao com if.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\002 - Media do aluno recuperacao com if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\002 - Media do aluno recuperacao com if.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\002 - Media do aluno recuperacao com if.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\002 - Media do aluno recuperacao com if.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\002 - Media do aluno recuperacao com if.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\refint\002 - Media do aluno recuperacao com if.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\002 - Media do aluno recuperacao com if.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\002 - Media do aluno recuperacao com if.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\002 - Media do aluno recuperacao com if\002 - Media do aluno recuperacao com if\obj\Debug\net5.0\ref\002 - Media do aluno recuperacao com if.dll
