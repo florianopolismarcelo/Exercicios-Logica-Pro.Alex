@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\bin\Debug\net5.0\006 - Tabuada com while.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\bin\Debug\net5.0\006 - Tabuada com while.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\bin\Debug\net5.0\006 - Tabuada com while.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\bin\Debug\net5.0\006 - Tabuada com while.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\bin\Debug\net5.0\006 - Tabuada com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\bin\Debug\net5.0\006 - Tabuada com while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\006 - Tabuada com while.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\006 - Tabuada com while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\006 - Tabuada com while.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\006 - Tabuada com while.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\006 - Tabuada com while.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\006 - Tabuada com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\refint\006 - Tabuada com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\006 - Tabuada com while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\006 - Tabuada com while.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\006 - Tabuada com while\006 - Tabuada com while\obj\Debug\net5.0\ref\006 - Tabuada com while.dll

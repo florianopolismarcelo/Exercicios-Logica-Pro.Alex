@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\bin\Debug\net5.0\005 - Tabuada com 2 for.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\bin\Debug\net5.0\005 - Tabuada com 2 for.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\bin\Debug\net5.0\005 - Tabuada com 2 for.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\bin\Debug\net5.0\005 - Tabuada com 2 for.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\bin\Debug\net5.0\005 - Tabuada com 2 for.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\bin\Debug\net5.0\005 - Tabuada com 2 for.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\005 - Tabuada com 2 for.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\005 - Tabuada com 2 for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\005 - Tabuada com 2 for.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\005 - Tabuada com 2 for.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\005 - Tabuada com 2 for.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\005 - Tabuada com 2 for.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\refint\005 - Tabuada com 2 for.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\005 - Tabuada com 2 for.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\005 - Tabuada com 2 for.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\005 - Tabuada com 2 for\005 - Tabuada com 2 for\obj\Debug\net5.0\ref\005 - Tabuada com 2 for.dll
