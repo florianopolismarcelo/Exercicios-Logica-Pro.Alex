@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 - Tabuada com tratamento de exceção", "007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção.csproj", "{72BE5402-184E-488E-9313-53D4EB35ABD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72BE5402-184E-488E-9313-53D4EB35ABD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BE5402-184E-488E-9313-53D4EB35ABD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BE5402-184E-488E-9313-53D4EB35ABD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BE5402-184E-488E-9313-53D4EB35ABD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CE99F03-8873-4A7B-B336-D45D9CE33BB5}
+	EndGlobalSection
+EndGlobal

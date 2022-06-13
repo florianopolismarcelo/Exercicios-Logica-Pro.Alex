@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "010 - Multiplos de 5 com intervalo com while/1.0.0": {
+        "runtime": {
+          "010 - Multiplos de 5 com intervalo com while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "010 - Multiplos de 5 com intervalo com while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

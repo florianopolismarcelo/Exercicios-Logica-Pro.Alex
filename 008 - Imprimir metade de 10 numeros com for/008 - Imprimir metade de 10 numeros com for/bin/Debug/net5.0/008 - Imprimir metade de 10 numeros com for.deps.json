@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "008 - Imprimir metade de 10 numeros com for/1.0.0": {
+        "runtime": {
+          "008 - Imprimir metade de 10 numeros com for.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "008 - Imprimir metade de 10 numeros com for/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
