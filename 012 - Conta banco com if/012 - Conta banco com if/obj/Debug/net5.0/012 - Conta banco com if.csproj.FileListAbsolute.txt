@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\bin\Debug\net5.0\012 - Conta banco com if.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\bin\Debug\net5.0\012 - Conta banco com if.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\bin\Debug\net5.0\012 - Conta banco com if.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\bin\Debug\net5.0\012 - Conta banco com if.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\bin\Debug\net5.0\012 - Conta banco com if.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\bin\Debug\net5.0\012 - Conta banco com if.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\012 - Conta banco com if.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\012 - Conta banco com if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\012 - Conta banco com if.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\012 - Conta banco com if.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\012 - Conta banco com if.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\012 - Conta banco com if.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\refint\012 - Conta banco com if.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\012 - Conta banco com if.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\012 - Conta banco com if.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\012 - Conta banco com if\012 - Conta banco com if\obj\Debug\net5.0\ref\012 - Conta banco com if.dll

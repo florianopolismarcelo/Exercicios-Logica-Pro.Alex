@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "013 - Conta banco com switch/1.0.0": {
+        "runtime": {
+          "013 - Conta banco com switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "013 - Conta banco com switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

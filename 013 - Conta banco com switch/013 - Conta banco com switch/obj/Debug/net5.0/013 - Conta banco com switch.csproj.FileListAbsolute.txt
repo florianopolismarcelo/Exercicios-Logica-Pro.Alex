@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\bin\Debug\net5.0\013 - Conta banco com switch.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\bin\Debug\net5.0\013 - Conta banco com switch.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\bin\Debug\net5.0\013 - Conta banco com switch.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\bin\Debug\net5.0\013 - Conta banco com switch.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\bin\Debug\net5.0\013 - Conta banco com switch.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\bin\Debug\net5.0\013 - Conta banco com switch.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\013 - Conta banco com switch.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\013 - Conta banco com switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\013 - Conta banco com switch.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\013 - Conta banco com switch.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\013 - Conta banco com switch.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\013 - Conta banco com switch.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\refint\013 - Conta banco com switch.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\013 - Conta banco com switch.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\013 - Conta banco com switch.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\013 - Conta banco com switch\013 - Conta banco com switch\obj\Debug\net5.0\ref\013 - Conta banco com switch.dll
