@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\bin\Debug\net5.0\007 - Tabuada com tratamento de exceção.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\bin\Debug\net5.0\007 - Tabuada com tratamento de exceção.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\bin\Debug\net5.0\007 - Tabuada com tratamento de exceção.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\bin\Debug\net5.0\007 - Tabuada com tratamento de exceção.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\bin\Debug\net5.0\007 - Tabuada com tratamento de exceção.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\bin\Debug\net5.0\007 - Tabuada com tratamento de exceção.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\007 - Tabuada com tratamento de exceção.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\007 - Tabuada com tratamento de exceção.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\007 - Tabuada com tratamento de exceção.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\007 - Tabuada com tratamento de exceção.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\007 - Tabuada com tratamento de exceção.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\007 - Tabuada com tratamento de exceção.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\refint\007 - Tabuada com tratamento de exceção.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\007 - Tabuada com tratamento de exceção.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\007 - Tabuada com tratamento de exceção.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\007 - Tabuada com tratamento de exceção\007 - Tabuada com tratamento de exceção\obj\Debug\net5.0\ref\007 - Tabuada com tratamento de exceção.dll

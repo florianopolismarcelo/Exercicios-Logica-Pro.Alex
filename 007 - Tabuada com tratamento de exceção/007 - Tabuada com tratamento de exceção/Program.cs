@@ -15,9 +15,9 @@ namespace _007___Tabuada_com_tratamento_de_exceção
 
             //int[] Numero  = new int[10]{1,2,3,4,5,6,7,8,9,10};
 
-            Console.WriteLine("+--------------------------------------------------------+");
-            Console.WriteLine("DIGITE UM NUMERO INTEIRO DE 1 A 4 PARA FORMAR SUA TABUADA");
-            Console.WriteLine("+--------------------------------------------------------+");
+            Console.WriteLine("+----------------------------------------------+");
+            Console.WriteLine("DIGITE UM NUMERO INTEIRO PARA FORMAR SUA TABUADA");
+            Console.WriteLine("+----------------------------------------------+");
             Numero = (Console.ReadLine());
 
             frase = false;
@@ -44,9 +44,9 @@ namespace _007___Tabuada_com_tratamento_de_exceção
                 }
                 if (!frase)
                 {
-                    Console.WriteLine("+--------------------------------------------------------+");
-                    Console.WriteLine("DIGITE UM NUMERO INTEIRO DE 1 A 4 PARA FORMAR SUA TABUADA");
-                    Console.WriteLine("+--------------------------------------------------------+");
+                    Console.WriteLine("+----------------------------------------------+");
+                    Console.WriteLine("DIGITE UM NUMERO INTEIRO PARA FORMAR SUA TABUADA");
+                    Console.WriteLine("+----------------------------------------------+");
                     Numero = (Console.ReadLine());
                 }
             }

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _010___Multiplos_de_5_com_intervalo_com_while
+build_property.ProjectDir = C:\Users\flori\source\repos\exercicios-logica-pro.alex\010 - Multiplos de 5 com intervalo com while\010 - Multiplos de 5 com intervalo com while\
