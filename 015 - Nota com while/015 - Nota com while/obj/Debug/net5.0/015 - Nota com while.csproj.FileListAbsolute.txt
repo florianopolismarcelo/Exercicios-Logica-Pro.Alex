@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\bin\Debug\net5.0\015 - Nota com while.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\bin\Debug\net5.0\015 - Nota com while.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\bin\Debug\net5.0\015 - Nota com while.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\bin\Debug\net5.0\015 - Nota com while.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\bin\Debug\net5.0\015 - Nota com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\bin\Debug\net5.0\015 - Nota com while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\015 - Nota com while.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\015 - Nota com while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\015 - Nota com while.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\015 - Nota com while.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\015 - Nota com while.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\015 - Nota com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\refint\015 - Nota com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\015 - Nota com while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\015 - Nota com while.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\015 - Nota com while\015 - Nota com while\obj\Debug\net5.0\ref\015 - Nota com while.dll

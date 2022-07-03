@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "014 - Media do aluno com while/1.0.0": {
+        "runtime": {
+          "014 - Media do aluno com while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "014 - Media do aluno com while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

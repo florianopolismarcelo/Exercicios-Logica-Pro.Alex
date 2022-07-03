@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\bin\Debug\net5.0\014 - Media do aluno com while.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\bin\Debug\net5.0\014 - Media do aluno com while.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\bin\Debug\net5.0\014 - Media do aluno com while.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\bin\Debug\net5.0\014 - Media do aluno com while.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\bin\Debug\net5.0\014 - Media do aluno com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\bin\Debug\net5.0\014 - Media do aluno com while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\014 - Media do aluno com while.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\014 - Media do aluno com while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\014 - Media do aluno com while.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\014 - Media do aluno com while.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\014 - Media do aluno com while.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\014 - Media do aluno com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\refint\014 - Media do aluno com while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\014 - Media do aluno com while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\014 - Media do aluno com while.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\014 - Media do aluno com while\014 - Media do aluno com while\obj\Debug\net5.0\ref\014 - Media do aluno com while.dll
