@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\bin\Debug\net5.0\016 - Maior numero e media com do while.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\bin\Debug\net5.0\016 - Maior numero e media com do while.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\bin\Debug\net5.0\016 - Maior numero e media com do while.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\bin\Debug\net5.0\016 - Maior numero e media com do while.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\bin\Debug\net5.0\016 - Maior numero e media com do while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\bin\Debug\net5.0\016 - Maior numero e media com do while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\016 - Maior numero e media com do while.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\016 - Maior numero e media com do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\016 - Maior numero e media com do while.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\016 - Maior numero e media com do while.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\016 - Maior numero e media com do while.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\016 - Maior numero e media com do while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\refint\016 - Maior numero e media com do while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\016 - Maior numero e media com do while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\016 - Maior numero e media com do while.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\016 - Maior numero e media com do while\016 - Maior numero e media com do while\obj\Debug\net5.0\ref\016 - Maior numero e media com do while.dll

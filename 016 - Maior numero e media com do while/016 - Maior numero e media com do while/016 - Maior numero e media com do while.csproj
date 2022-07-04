@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_016___Maior_numero_e_media_com_do_while</RootNamespace>
+  </PropertyGroup>
+
+</Project>
