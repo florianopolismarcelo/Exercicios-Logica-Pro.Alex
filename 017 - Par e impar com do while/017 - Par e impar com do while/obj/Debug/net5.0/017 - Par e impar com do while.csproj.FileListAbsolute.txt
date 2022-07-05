@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\bin\Debug\net5.0\017 - Par e impar com do while.exe
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\bin\Debug\net5.0\017 - Par e impar com do while.deps.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\bin\Debug\net5.0\017 - Par e impar com do while.runtimeconfig.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\bin\Debug\net5.0\017 - Par e impar com do while.runtimeconfig.dev.json
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\bin\Debug\net5.0\017 - Par e impar com do while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\bin\Debug\net5.0\017 - Par e impar com do while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\017 - Par e impar com do while.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\017 - Par e impar com do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\017 - Par e impar com do while.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\017 - Par e impar com do while.AssemblyInfo.cs
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\017 - Par e impar com do while.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\017 - Par e impar com do while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\refint\017 - Par e impar com do while.dll
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\017 - Par e impar com do while.pdb
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\017 - Par e impar com do while.genruntimeconfig.cache
+C:\Users\flori\source\repos\exercicios-logica-pro.alex\017 - Par e impar com do while\017 - Par e impar com do while\obj\Debug\net5.0\ref\017 - Par e impar com do while.dll
