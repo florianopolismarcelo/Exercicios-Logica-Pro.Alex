@@ -7,7 +7,7 @@ namespace _017___Par_e_impar_com_do_while
         static void Main(string[] args)
         {
             /* Faça um programa que peça N números inteiros, calcule e mostre a quantidade de números pares
-            e a quantidade de números impares.*/
+            e a quantidade de números impares..*/
 
             int quantNumeros;
             int numero;
