@@ -5,7 +5,6 @@
 inválido e continue pedindo até que o usuário informe um valor válido.
 *************************************************************************************************/
 
-
 float nota;
 Boolean notaValida = false;
 
