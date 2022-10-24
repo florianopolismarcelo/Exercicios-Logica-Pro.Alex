@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021 - Sequencia de número impresso na tela", "021 - Sequencia de número impresso na tela\021 - Sequencia de número impresso na tela.csproj", "{CA97E6CB-DBEC-4EBA-B9C8-FEF97EBFD42D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA97E6CB-DBEC-4EBA-B9C8-FEF97EBFD42D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA97E6CB-DBEC-4EBA-B9C8-FEF97EBFD42D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA97E6CB-DBEC-4EBA-B9C8-FEF97EBFD42D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA97E6CB-DBEC-4EBA-B9C8-FEF97EBFD42D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF34E26F-193E-4DB6-A898-0A27D37FA76B}
+	EndGlobalSection
+EndGlobal
