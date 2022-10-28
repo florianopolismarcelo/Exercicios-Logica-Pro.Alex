@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _032___Vetor_de_10_números_reais_ordem_inversa
+build_property.ProjectDir = C:\Users\flori\source\repos\exerciciosLogica\032 - Vetor de 10 números reais ordem inversa\032 - Vetor de 10 números reais ordem inversa\
