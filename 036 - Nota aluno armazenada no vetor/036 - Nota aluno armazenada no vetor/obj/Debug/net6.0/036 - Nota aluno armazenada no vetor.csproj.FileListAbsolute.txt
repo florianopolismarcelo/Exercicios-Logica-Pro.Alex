@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\bin\Debug\net6.0\036 - Nota aluno armazenada no vetor.exe
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\bin\Debug\net6.0\036 - Nota aluno armazenada no vetor.deps.json
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\bin\Debug\net6.0\036 - Nota aluno armazenada no vetor.runtimeconfig.json
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\bin\Debug\net6.0\036 - Nota aluno armazenada no vetor.dll
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\bin\Debug\net6.0\036 - Nota aluno armazenada no vetor.pdb
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\036 - Nota aluno armazenada no vetor.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\036 - Nota aluno armazenada no vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\036 - Nota aluno armazenada no vetor.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\036 - Nota aluno armazenada no vetor.AssemblyInfo.cs
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\036 - Nota aluno armazenada no vetor.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\036 - Nota aluno armazenada no vetor.dll
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\refint\036 - Nota aluno armazenada no vetor.dll
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\036 - Nota aluno armazenada no vetor.pdb
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\036 - Nota aluno armazenada no vetor.genruntimeconfig.cache
+C:\Users\flori\source\repos\exerciciosLogica\036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor\obj\Debug\net6.0\ref\036 - Nota aluno armazenada no vetor.dll
