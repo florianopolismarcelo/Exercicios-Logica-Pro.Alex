@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\bin\Debug\net6.0\031 - Contador.exe
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\bin\Debug\net6.0\031 - Contador.deps.json
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\bin\Debug\net6.0\031 - Contador.runtimeconfig.json
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\bin\Debug\net6.0\031 - Contador.dll
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\bin\Debug\net6.0\031 - Contador.pdb
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\031 - Contador.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\031 - Contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\031 - Contador.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\031 - Contador.AssemblyInfo.cs
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\031 - Contador.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\031 - Contador.dll
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\refint\031 - Contador.dll
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\031 - Contador.pdb
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\031 - Contador.genruntimeconfig.cache
+C:\Users\flori\source\repos\exerciciosLogica\031 - Contador\031 - Contador\obj\Debug\net6.0\ref\031 - Contador.dll
