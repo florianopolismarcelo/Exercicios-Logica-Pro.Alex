@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "036 - Nota aluno armazenada no vetor", "036 - Nota aluno armazenada no vetor\036 - Nota aluno armazenada no vetor.csproj", "{67252357-E158-4982-AC3B-421512D01D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67252357-E158-4982-AC3B-421512D01D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67252357-E158-4982-AC3B-421512D01D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67252357-E158-4982-AC3B-421512D01D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67252357-E158-4982-AC3B-421512D01D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F27E3C93-379B-4442-A3F2-6E1A5BAF8E68}
+	EndGlobalSection
+EndGlobal
