@@ -15,7 +15,7 @@ Console.WriteLine("---------------");
 Console.WriteLine("Notas do Aluno: ");
 Console.WriteLine("---------------");
 
-for (i = 0; i < 2; i++)
+for (i = 0; i <=3; i++)
 {
     for (n = 0; n < 4; n++)
     {
@@ -27,13 +27,12 @@ for (i = 0; i < 2; i++)
         media = vetorNotaAluno[0] + vetorNotaAluno[1] + vetorNotaAluno[2] + vetorNotaAluno[3];
         media = media / 4;
         vetorMediaAluno[i] = media;
-
-        if (media >= 7)
-        {
-           vetorMediaAluno[i] = media;
-            Console.WriteLine("Nota acima de 7: ");
-            Console.WriteLine(vetorMediaAluno[i]);
-        }
+        media = media + 1;
     }
-    Console.WriteLine($"A Media é: {media}");
+    if (media >= 7)
+    {
+        vetorMediaAluno[i] = media;
+        Console.WriteLine("Nota acima de 7: ");
+        Console.WriteLine(vetorMediaAluno[i]);
+    }
 }
