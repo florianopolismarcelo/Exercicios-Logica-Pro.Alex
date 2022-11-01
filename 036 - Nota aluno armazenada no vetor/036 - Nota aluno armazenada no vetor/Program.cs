@@ -12,7 +12,7 @@ double nota = 0, media = 0;
 int n = 0, i = 0;
 
 
-for (i = 0; i <2; i++)
+for (i = 0; i < 2; i++)
 {
     Console.WriteLine("---------------------------");
     Console.WriteLine("Nota do aluno na posição {0}: ", i);
@@ -35,9 +35,9 @@ Console.WriteLine("----------------");
 
 
 for (i = 0; i < 2; i++)
-    {
-        Console.WriteLine(vetorMediaAluno[i]);
-    }
+{
+    Console.WriteLine(vetorMediaAluno[i]);
+}
 Console.WriteLine("---------------------------");
 Console.WriteLine("Médias igual ou acima de 7: ");
 Console.WriteLine("---------------------------");
@@ -46,7 +46,6 @@ for (i = 0; i < 2; i++)
 {
     if (vetorMediaAluno[i] >= 7)
     {
-        //vetorMediaAluno[i] = media;
         Console.WriteLine(vetorMediaAluno[i]);
     }
 }
