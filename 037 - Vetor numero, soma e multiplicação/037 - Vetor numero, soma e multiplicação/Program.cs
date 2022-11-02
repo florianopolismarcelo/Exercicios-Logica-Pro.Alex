@@ -6,10 +6,7 @@ int[] vetorNumeros = new int[5];
 int[] vetorSoma = new int[5];
 int[] vetorMultiplicacao = new int[5];
 
-
 int numero = 0, soma = 0, multiplicacao = 0, i = 0;
-
-
 
 for (i = 0; i < 5; i++)
 {
