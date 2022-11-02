@@ -1,0 +1,15 @@
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\bin\Debug\net6.0\037 - Vetor numero, soma e multiplicação.exe
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\bin\Debug\net6.0\037 - Vetor numero, soma e multiplicação.deps.json
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\bin\Debug\net6.0\037 - Vetor numero, soma e multiplicação.runtimeconfig.json
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\bin\Debug\net6.0\037 - Vetor numero, soma e multiplicação.dll
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\bin\Debug\net6.0\037 - Vetor numero, soma e multiplicação.pdb
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\037 - Vetor numero, soma e multiplicação.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\037 - Vetor numero, soma e multiplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\037 - Vetor numero, soma e multiplicação.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\037 - Vetor numero, soma e multiplicação.AssemblyInfo.cs
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\037 - Vetor numero, soma e multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\037 - Vetor numero, soma e multiplicação.dll
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\refint\037 - Vetor numero, soma e multiplicação.dll
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\037 - Vetor numero, soma e multiplicação.pdb
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\037 - Vetor numero, soma e multiplicação.genruntimeconfig.cache
+C:\Users\flori\source\repos\exerciciosLogica\037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação\obj\Debug\net6.0\ref\037 - Vetor numero, soma e multiplicação.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "037 - Vetor numero, soma e multiplicação", "037 - Vetor numero, soma e multiplicação\037 - Vetor numero, soma e multiplicação.csproj", "{1DB1AF2E-88FC-4C69-9D46-DBDB85738636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB1AF2E-88FC-4C69-9D46-DBDB85738636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB1AF2E-88FC-4C69-9D46-DBDB85738636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB1AF2E-88FC-4C69-9D46-DBDB85738636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB1AF2E-88FC-4C69-9D46-DBDB85738636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB376342-FA66-4239-9B9F-5CBF99694016}
+	EndGlobalSection
+EndGlobal
